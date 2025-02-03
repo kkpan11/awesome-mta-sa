@@ -51,8 +51,6 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [ConGuard](https://github.com/Lpsd/ConGuard) - Network/connection helper for MTA:SA.
 - [mta-discord-webhook-library](https://github.com/FilexGH/mta-discord-webhook-library) - Discord Webhook API for MTA servers.
 - [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) - Cool and powerfull dxGUI library for MTA.
-- [XLMRT](https://github.com/XaskeL/XLMRT) - MTA XaskeL Mapping ReTexture Tool.
-- [CRenderTarget-MTA](https://github.com/XaskeL/CRenderTarget-MTA) - RenderTarget helper lib.
 - [pAttach](https://github.com/Patrick2562/mtasa-pAttach) - Optimized bone attach using new MTA functions/events. 
 - [Beautify](https://github.com/ov-sa/Beautify-Library) -  DX based powerful UI library.
 - [editor_addon_lights](https://github.com/patrikjuvonen/editor_addon_lights) - Add Ren712 lights using a default map editor.
